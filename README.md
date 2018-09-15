@@ -7,7 +7,9 @@ For working examples see `notebooks/lognormal.ipynb`.
 
 # Install
 `git clone https://github.com/CoAxLab/nonormalbrains.git`
+
 `cd nonormalbrains`
+
 `pip install -e .`
 
 
