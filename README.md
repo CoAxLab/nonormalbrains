@@ -1,15 +1,13 @@
 # nonormalbrains
-Experiments in sequential testing, in non-normal world.
+Experiments with sequential testing, in a non-normal world.
 
 # Usage
-For working examples, see `notebooks/lognormal.ipynb`.
+For working examples see `notebooks/lognormal.ipynb`.
 
 
 # Install
 `git clone https://github.com/CoAxLab/nonormalbrains.git`
-
 `cd nonormalbrains`
-
 `pip install -e .`
 
 
